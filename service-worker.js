@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/html-css-eksperimen/DemoHamburgerMenuVue.git/precache-manifest.5c23f389f7740c18e35309c1f292d22a.js"
+  "/DemoHamburgerMenuVue/precache-manifest.7a6587f83695e81dfc840218401ebfbd.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "menu-burger-vue"});
